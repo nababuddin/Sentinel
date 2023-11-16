@@ -16,7 +16,7 @@ redact = Redact(token, config=config)
 # Discord bot setup
 discord_token = os.getenv("DISCORD_BOT_TOKEN")
 intents = discord.Intents.all()
-intents.messages = True  # Subscribe to messages events
+intents.messages = True 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 
