@@ -5,15 +5,15 @@
 
 - [Sentinel Discord Bot - Security Enhancement](#sentinel-discord-bot---security-enhancement)
   - [Description](#description)
-  - [🛠️ Installation Steps](#%F0%9F%9B%A0%EF%B8%8F-installation-steps)
+  - [🛠️ Installation Steps](#ins)
     - [1. Clone the Repository](#1-clone-the-repository)
     - [2. Configure Environment Variables](#2-configure-environment-variables)
     - [3. Install Dependencies](#3-install-dependencies)
     - [4. Run the Bot](#4-run-the-bot)
-  - [💻 Built with](#%F0%9F%92%BB-built-with)
+  - [💻 Built with](#built)
   - [💖 Like my work?](#%F0%9F%92%96-like-my-work)
 
-<h2>🛠️ Installation Steps:</h2>
+<h2 id="ins">🛠️ Installation Steps:</h2>
 
 <p>1. Clone the Repository: Clone the Sentinel repository to your local machine.</p>
 
@@ -41,7 +41,7 @@ python bot.py
 
   
   
-<h2>💻 Built with</h2>
+<h2="built">💻 Built with</h2>
 
 Technologies used in the project:
 
