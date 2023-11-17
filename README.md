@@ -1,6 +1,17 @@
 # Sentinel Discord Bot - Security Enhancement
 ![image](https://github.com/nababuddin/Sentinel/blob/3fbe31d24f2bb9c0e2e817cec7ac47a3a7055873/locataion%20based%20(2).png)
 <p id="description">Sentinel is a Python-built Discord bot designed to enhance server security. It automatically detects and removes sensitive information like API keys and private data from messages ensuring a safer chat environment for all members.</p>
+<h2>Table of Contents</h2>
+
+- [Sentinel Discord Bot - Security Enhancement](#sentinel-discord-bot---security-enhancement)
+  - [Description](#description)
+  - [🛠️ Installation Steps](#%F0%9F%9B%A0%EF%B8%8F-installation-steps)
+    - [1. Clone the Repository](#1-clone-the-repository)
+    - [2. Configure Environment Variables](#2-configure-environment-variables)
+    - [3. Install Dependencies](#3-install-dependencies)
+    - [4. Run the Bot](#4-run-the-bot)
+  - [💻 Built with](#%F0%9F%92%BB-built-with)
+  - [💖 Like my work?](#%F0%9F%92%96-like-my-work)
 
 <h2>🛠️ Installation Steps:</h2>
 
