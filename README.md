@@ -7,11 +7,11 @@
   - [Description](#description)
   - [🛠️ Installation Steps](#ins)
     - [1. Clone the Repository](#1-clone-the-repository)
-    - [2. Configure Environment Variables](#2-configure-environment-variables)
-    - [3. Install Dependencies](#3-install-dependencies)
-    - [4. Run the Bot](#4-run-the-bot)
+    - [2. Configure Environment Variables](#configure)
+    - [3. Install Dependencies](#install)
+    - [4. Run the Bot](#run)
   - [💻 Built with](#built)
-  - [💖 Like my work?](#%F0%9F%92%96-like-my-work)
+  - [💖 Like my work?](#like)
 
 <h2 id="ins">🛠️ Installation Steps:</h2>
 
@@ -21,19 +21,19 @@
 git clone https://github.com/yourusername/sentinel-bot.git
 ```
 
-<p>2. Configure Environment Variables: Create a .env file in the project directory and set the following environment variables:</p>
+<p id="configure">2. Configure Environment Variables: Create a .env file in the project directory and set the following environment variables:</p>
 
 ```
 PANGEA_REDACT_TOKEN= PANGEA_DOMAIN= DISCORD_BOT_TOKEN=
 ```
 
-<p>3. Install Dependencies: Install the required Python packages using pip.</p>
+<p id="install">3. Install Dependencies: Install the required Python packages using pip.</p>
 
 ```
 pip install -r requirements.txt
 ```
 
-<p>4. Run the Bot: Start the Sentinel bot.</p>
+<p id="run">4. Run the Bot: Start the Sentinel bot.</p>
 
 ```
 python bot.py
@@ -50,6 +50,6 @@ Technologies used in the project:
 *   Pangea Redact
 *   dotenv
 
-<h2>💖Like my work?</h2>
+<h2 id="like">💖Like my work?</h2>
 
 Contact Me on [LinkedIn](https://www.linkedin.com/in/seikh-nabab-uddin-266b10247/)
